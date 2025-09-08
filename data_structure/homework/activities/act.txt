@@ -1,1 +1,10 @@
-ola
+if(list.head==old_node)
+   list.head==old_node.next
+   if(list.size==1)
+      list.tail=null
+else
+     node.next=old_node.next
+     if(old_node.next==null)
+        list.tail=node
+free(old_code)
+list.size 
